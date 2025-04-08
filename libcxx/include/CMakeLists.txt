@@ -524,6 +524,7 @@ set(files
   __locale_dir/support/no_locale/characters.h
   __locale_dir/support/no_locale/strtonum.h
   __locale_dir/support/windows.h
+  __locale_dir/support/haiku.h
   __math/abs.h
   __math/copysign.h
   __math/error_functions.h
